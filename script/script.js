@@ -281,11 +281,11 @@ d3.csv('data/Pop anddd guns - Sheet1.csv',
             .attr("height", function (d) {
                 return canvasHeight - scaleY(d.pop);
             })
-            .attr('width', '10px')
+            .attr('width', '14px')
             .attr('y', function (d) {
                 return scaleY(d.pop);
             })
-            .style('fill', 'rgb(255,204,204)')
+            .style('fill', 'rgba(139,137,137,.7)')
 
 
             .on("mouseover", function (d) {
@@ -299,44 +299,62 @@ d3.csv('data/Pop anddd guns - Sheet1.csv',
 //*----------------------- TODO: BUTTON FUNCTION ----------------------*/
 
 
-
-
+        state_map = d3.map()
+        state_map.set('guns', 'notclicked')
         d3.selectAll('#guns').on('click', function () {
-            //find out which year is clicked
-            var guns_bars = states.selectAll('.state2')
-                .data(rows)
-            var guns_enter = guns_bars.enter()
-                .append('rect')
-                .attr('class', 'state2').attr('opacity', 0)
-                .attr("x", function (d) {
-                    return scaleX(d.state)
-                })
-                .attr("y", function (d) {
-                    return canvasHeight;
-                })
-                .attr("height", function (d) {
-                    return 0;
-                }).attr('transform',function(d,j,i){return "translate(3,0)"});
-    //exit
+            //
+            // CLICK AND UNCLICK//
+
+
+            if (state_map.get('guns') == 'notclicked') {
+                state_map.set('guns', 'clicked')
+                drawGuns(rows);
+
+            } else {
+                state_map.set('guns', 'notclicked')
+                drawGuns([]);
+            }
+                function drawGuns (data) {
+
+                var guns_bars = states.selectAll('.state2')
+                    .data(data)
+                var guns_enter = guns_bars.enter()
+                    .append('rect')
+                    .attr('class', 'state2').attr('opacity', 0)
+                    .attr("x", function (d) {
+                        return scaleX(d.state)
+                    })
+                    .attr("y", function (d) {
+                        return canvasHeight;
+                    })
+                    .attr("height", function (d) {
+                        return 0;
+                    }).attr('transform',function(d,j,i){return "translate(4,0)"});
+                //exit
                 var guns_exit = guns_bars.exit().remove().transition().attr('opacity', 0)
-                    //update
+                //update
                 guns_bars.transition().delay(500).duration(1000).attr('opacity', 1)
                     .attr("x", function (d) {
-                    return scaleX(d.state)
-                })
-                //.attr(height)
-                //.attr("x2", function (d) {
-                //        return scaleX(d.state)
-                // })
-                .attr("height", function (d) {
-                    return canvasHeight - scaleY(d.guns)
-                })
-                .attr('width', '4px')
-                .attr('y', function (d) {
-                    return scaleY(d.guns);
-                })
+                        return scaleX(d.state)
+                    })
+                    //.attr(height)
+                    //.attr("x2", function (d) {
+                    //        return scaleX(d.state)
+                    // })
+                    .attr("height", function (d) {
+                        return canvasHeight - scaleY(d.guns)
+                    })
+                    .attr('width', '4px')
+                    .attr('y', function (d) {
+                        return scaleY(d.guns);
+                    })
 
-                .style('fill', 'red')
+                    .style('fill', 'red')
+
+
+            }
+
+
 
                 //(function (d,i){ return i * 300;}) if you add the 300.. they do it one by one
 
