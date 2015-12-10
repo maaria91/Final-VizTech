@@ -92,6 +92,15 @@ function draw(state) {
 
 //}
 
+
+//ATTACH AN IMAGE
+plot
+    .append('image')
+    .attr('xlink:href','assets/legend.svg')
+    //.attr('width', 150)
+    //.attr('height',60);
+
+
 function attachTooltip(selection) {
     selection
         .on('mouseenter', function (d) {
@@ -256,7 +265,7 @@ d3.csv('data/Pop anddd guns - Sheet1.csv',
 
         var rateById = d3.map();
 
-////HUMAN POP BLUE RECT
+////HUMAN POP PINK RECT
         states.selectAll('.state')
             .data(rows)
             .enter()
@@ -285,6 +294,11 @@ d3.csv('data/Pop anddd guns - Sheet1.csv',
 
 
         //////RED GUN RATE RECT
+//*----------------------- TODO: BUTTON FUNCTION ----------------------*/
+//*----------------------- TODO: BUTTON FUNCTION ----------------------*/
+//*----------------------- TODO: BUTTON FUNCTION ----------------------*/
+
+
 
 
         d3.selectAll('#guns').on('click', function () {
