@@ -1,0 +1,113 @@
+html,body,div,ul,li,svg{
+    margin:0;
+    padding:5px;
+    list-style:none;
+
+}
+
+/*------------Global-------------*/
+html,body{
+    height: 100%;
+    position: relative;
+    /*background: rgb(242,244,233);*/
+background: white;
+}
+
+.legend rect {
+    fill:white;
+    stroke:black;
+    opacity:0.8;}
+
+.container{
+    height:100%;
+}
+.container .section{
+    width:100%;
+}
+.container .canvas{
+    width:100%;
+    background: white;
+    height:600px;
+    position:relative;
+}
+.container .controls{
+    margin-bottom:20px;
+}
+
+/*-----------tooltip-----------*/
+.canvas .custom-tooltip{
+    position:absolute;
+
+   /* border:1px solid darkslategray; */
+    background:rgba(255, 255, 255, 0.8);  /*WE USE BACKGROUND not FILL.. because its html--> */
+    width:250px;
+    min-height:10px;
+    padding:0px 10px;
+    border-radius:5px; /* HOW circular we want the edges of the square */
+
+}
+
+/*------------font-------------*/
+body{
+    font-size: 16px;
+    font-family: arial;
+    color: rgb(64,64,64);
+}
+h1{ font-size:2.2em;} /*------------we do this to play with font size-------------*/
+h1{font-family: serif; bold;}
+h2{ font-size:1.3em;}
+h2{font-family: serif; bold;}
+h2{color:darkslategray;}
+p{ font-size: .9em;}
+p{color:gray}
+span{color:darkslategray;}
+span{font-size: 15px;}
+
+/*------------svg--------------*/
+.axis .domain{
+    fill:none
+}
+.axis .tick line{
+    fill:none;
+    stroke:rgb(200,200,200);
+    stroke-width:1px;
+}
+.axis .tick text{
+    fill:rgb(80,80,80)
+}
+
+/*------------axis--------------*/
+.axis .domain{
+    fill:none
+}
+.axis .tick line{
+    fill:none;
+    stroke:rgb(200,200,200);
+    stroke-width:1px;
+}
+.axis .tick text{
+    font-size: 10px;
+    fill:rgb(80,80,80)
+}
+
+/* NOT NEEDED FOR NOW
+/*.data-point{
+    fill:white;
+    stroke-width:2px;
+    stroke:rgb(350,50,150); /*------------COLOR OF CIRCLES-------------*/
+/*}
+.coffee-data-point{ stroke:red; }
+.tea-data-point{ stroke:rgb(0,200,255); }
+.data-line{
+    fill:none;
+    stroke-width:2px;
+    stroke:rgb(350,250,150);
+}
+.coffee-data-line{ stroke:red; }
+.tea-data-line{ stroke:rgb(0,200,255); }
+.data-area{
+    fill-opacity:.05;
+    fill:rgb(150,150,150);
+}
+.coffee-data-area{ fill:red; }
+.tea-data-area{ fill:rgb(0,200,255); } */

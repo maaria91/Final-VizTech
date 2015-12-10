@@ -1,0 +1,356 @@
+Date,Dead,Injured,Location,City,State
+1/1/2015,0,5,"Memphis, TN",Memphis, TN
+1/2/2015,1,4,"Savannah, GA",Savannah, GA
+1/4/2015,3,1,"Dallas, TX",Dallas, TX
+1/4/2015,2,4,"Roanoke, VA",Roanoke, VA
+1/6/2015,1,3,"Miami, FL",Miami, FL
+1/7/2015,1,3,"Chattanooga, TN",Chattanooga, TN
+1/8/2015,1,3,"Boston, MA",Boston, MA
+1/9/2015,4,0,"San Francisco, CA",San Francisco, CA
+1/10/2015,3,1,"Moscow, ID",Moscow, ID
+1/11/2015,2,5,"Hope Mills, NC",Hope Mills, NC
+1/11/2015,1,3,"Lakeland, FL",Lakeland, FL
+1/11/2015,0,5,"San Jose, CA",San Jose, CA
+1/11/2015,0,5,"Tuskegee, AL",Tuskegee, AL
+1/12/2015,2,2,"Wichita, KS",Wichita, KS
+1/13/2015,0,5,"Portsmouth, VA",Portsmouth, VA
+1/14/2015,2,3,"Rockford, IL",Rockford, IL
+1/19/2015,2,5,"San Antonio, TX",San Antonio, TX
+1/20/2015,1,3,"Clarksville, TN",Clarksville, TN
+1/23/2015,0,6,"Boston, MA",Boston, MA
+1/24/2015,3,5,"Omaha, NE",Omaha, NE
+1/24/2015,4,1,"Queens, NY",Queens, NY
+1/26/2015,1,4,"Stockton, CA",Stockton, CA
+1/28/2015,1,3,"DeKalb, GA",DeKalb, GA
+1/29/2015,5,0,"Troup County, GA",Troup County, GA
+2/1/2015,1,4,"Manhattan, NY",Manhattan, NY
+2/1/2015,0,6,"Syracuse, NY",Syracuse, NY
+2/4/2015,4,0,"King, NC",King, NC
+2/5/2015,3,3,"Warrensville Heights, OH",Warrensville Heights, OH
+2/6/2015,1,3,"Tulsa, OK",Tulsa, OK
+2/7/2015,5,2,"Douglasville, GA",Douglasville, GA
+2/8/2015,0,6,"Crockett County, TN",Crockett County, TN
+2/9/2015,3,1,"New Port Richey, FL",New Port Richey, FL
+2/15/2015,0,5,"Long Beach, CA",Long Beach, CA
+2/17/2015,1,3,"Little Rock, AR",Little Rock, AR
+2/22/2015,0,4,"Charleston, SC",Charleston, SC
+2/22/2015,3,2,"Habersham County, GA",Habersham County, GA
+2/22/2015,4,1,"Killeen, TX",Killeen, TX
+2/25/2015,3,2,"Houston, TX",Houston, TX
+2/27/2015,8,1,"Tyrone, MO",Tyrone, MO
+2/28/2015,1,3,"Baltimore, MD",Baltimore, MD
+2/28/2015,3,1,"Columbia, MO",Columbia, MO
+2/28/2015,4,0,"Tarboro, NC",Tarboro, NC
+3/1/2015,1,5,"Detroit, MI",Detroit, MI
+3/1/2015,0,4,"Tangelo Park, FL",Tangelo Park, FL
+3/2/2015,1,4,"Santa Ana, CA",Santa Ana, CA
+3/3/2015,3,1,"Las Vegas, NV",Las Vegas, NV
+3/4/2015,2,5,"San Bernadino, CA",San Bernadino, CA
+3/9/2015,1,3,"Chicago, IL",Chicago, IL
+3/10/2015,0,5,"Columbus, GA",Columbus, GA
+3/11/2015,0,4,"Aurora, IL",Aurora, IL
+3/13/2015,2,3,"Brookhaven, MS",Brookhaven, MS
+3/14/2015,0,5,"Atlanta, GA",Atlanta, GA
+3/15/2015,3,1,"Houston County, AL",Houston County, AL
+3/15/2015,0,4,"Lillington, NC",Lillington, NC
+3/16/2015,0,4,"Compton, CA",Compton, CA
+3/17/2015,3,4,"Stockton, CA",Stockton, CA
+3/18/2015,1,5,"Mesa, AZ",Mesa, AZ
+3/18/2015,1,3,"Newark, NJ",Newark, NJ
+3/19/2015,2,2,"Navajo Nation, AZ",Navajo Nation, AZ
+3/20/2015,0,4,"Columbus, MS",Columbus, MS
+3/20/2015,0,4,"Joliet, IL",Joliet, IL
+3/20/2015,1,5,"Lancaster, TX",Lancaster, TX
+3/20/2015,0,4,"Oklahoma City, OK",Oklahoma City, OK
+3/21/2015,0,5,"Lehigh Acres, FL",Lehigh Acres, FL
+3/21/2015,0,4,"Ybor City, FL",Ybor City, FL
+3/22/2015,1,6,"Albuquerque, NM",Albuquerque, NM
+3/23/2015,1,4,"Clarksville, TN",Clarksville, TN
+3/24/2015,4,0,"Indianapolis, IN",Indianapolis, IN
+3/26/2015,0,4,"Amarillo, TX",Amarillo, TX
+3/28/2015,0,7,"Panama City Beach, FL",Panama City Beach, FL
+3/29/2015,0,4,"Stockton, CA",Stockton, CA
+3/30/2015,4,0,"Tulsa, OK",Tulsa, OK
+4/2/2015,0,5,"Baltimore, MD",Baltimore, MD
+4/3/2015,0,4,"Daytona Beach, FL",Daytona Beach, FL
+4/5/2015,0,5,"Indianapolis, IN",Indianapolis, IN
+4/5/2015,1,4,"Louisville, KY",Louisville, KY
+4/7/2015,1,3,"North Rome, GA",North Rome, GA
+4/16/2015,1,4,"Los Angeles, CA",Los Angeles, CA
+4/16/2015,5,0,"Phoenix, AZ",Phoenix, AZ
+4/18/2015,0,4,"Charlotte, NC",Charlotte, NC
+4/18/2015,1,3,"Lumberton, NC",Lumberton, NC
+4/18/2015,0,5,"Montgomery, AL",Montgomery, AL
+4/18/2015,1,3,"Paterson, NJ",Paterson, NJ
+4/18/2015,0,5,"Williamsport, PA",Williamsport, PA
+4/19/2015,0,4,"Richmond, VA",Richmond, VA
+4/21/2015,2,3,"Killeen, TX",Killeen, TX
+4/25/2015,1,6,"Gates, NY",Gates, NY
+4/25/2015,0,4,"Trenton, NJ",Trenton, NJ
+4/27/2015,2,4,"Brooklyn, NY",Brooklyn, NY
+4/27/2015,2,2,"Gila Bend, AZ",Gila Bend, AZ
+5/1/2015,2,3,"Milwaukee, WI",Milwaukee, WI
+5/3/2015,1,6,"Dayton, OH",Dayton, OH
+5/3/2015,0,6,"Houston, TX",Houston, TX
+5/3/2015,4,1,"Menasha, WI",Menasha, WI
+5/3/2015,0,4,"South Bend, IN",South Bend, IN
+5/4/2015,0,4,"Bronx, NY",Bronx, NY
+5/4/2015,1,3,"Buffalo, NY",Buffalo, NY
+5/7/2015,0,4,"Cincinnati, OH",Cincinnati, OH
+5/10/2015,1,4,"Cleveland, OH",Cleveland, OH
+5/10/2015,0,4,"Jersey City, NJ",Jersey City, NJ
+5/10/2015,1,3,"Newark, NJ",Newark, NJ
+5/12/2015,1,4,"Capitol Heights, MD",Capitol Heights, MD
+5/12/2015,5,0,"Tucson, AZ",Tucson, AZ
+5/13/2015,4,0,"Anchorage, AK",Anchorage, AK
+5/16/2015,0,5,"Baltimore, MD",Baltimore, MD
+5/16/2015,0,5,"Milwaukee, WI",Milwaukee, WI
+5/16/2015,0,4,"Rochester, NY",Rochester, NY
+5/17/2015,9,18,"Waco, TX",Waco, TX
+5/18/2015,0,4,"Kinloch, MO",Kinloch, MO
+5/18/2015,1,4,"Miami, FL",Miami, FL
+5/19/2015,1,3,"Arlington, VA",Arlington, VA
+5/20/2015,1,4,"Baltimore, MD",Baltimore, MD
+5/23/2015,2,2,"Fresno, CA",Fresno, CA
+5/24/2015,0,5,"Brockton, MA",Brockton, MA
+5/24/2015,0,7,"Flint, MI",Flint, MI
+5/24/2015,1,3,"Montgomery, AL",Montgomery, AL
+5/24/2015,0,4,"St. Louis, MO",St. Louis, MO
+5/25/2015,1,4,"Decatur, IL",Decatur, IL
+5/26/2015,2,2,"New Orleans, LA",New Orleans, LA
+5/28/2015,1,3,"Chester, PA",Chester, PA
+5/28/2015,0,5,"Chicago, Il",Chicago, Il
+5/28/2015,0,4,"Omaha, NE",Omaha, NE
+5/29/2015,1,3,"Miami, FL",Miami, FL
+5/30/2015,1,3,"North Amityville, NY",North Amityville, NY
+5/30/2015,0,4,"San Diego, CA",San Diego, CA
+5/31/2015,3,1,"Cleveland, OH",Cleveland, OH
+5/31/2015,1,3,"Conyers, GA",Conyers, GA
+5/31/2015,0,5,"New Haven, CT",New Haven, CT
+5/31/2015,1,3,"Springdale, MD",Springdale, MD
+6/2/2015,0,4,"Anniston, AL",Anniston, AL
+6/3/2015,3,1,"Wyandanch, NY",Wyandanch, NY
+6/5/2015,0,5,"Davenport, IA",Davenport, IA
+6/5/2015,1,3,"New Orleans, LA",New Orleans, LA
+6/6/2015,1,4,"Buffalo, NY",Buffalo, NY
+6/6/2015,0,5,"Chicago, IL",Chicago, IL
+6/7/2015,5,0,"Deer Lodge, MT",Deer Lodge, MT
+6/9/2015,1,3,"St. Louis, MO",St. Louis, MO
+6/10/2015,1,3,"Cincinnati, OH",Cincinnati, OH
+6/10/2015,1,3,"Los Angeles, CA",Los Angeles, CA
+6/11/2015,1,8,"Bridgeport, CT",Bridgeport, CT
+6/11/2015,1,3,"Houston, TX",Houston, TX
+6/12/2015,0,4,"Miami, FL",Miami, FL
+6/13/2015,0,5,"Bronx, NY",Bronx, NY
+6/13/2015,4,1,"Columbus, OH",Columbus, OH
+6/13/2015,1,4,"Fayette County, GA",Fayette County, GA
+6/13/2015,0,4,"Oklahoma City, OK",Oklahoma City, OK
+6/13/2015,0,4,"St. Louis, MO",St. Louis, MO
+6/13/2015,0,4,"Tulsa, OK",Tulsa, OK
+6/14/2015,1,3,"Camden, NJ",Camden, NJ
+6/14/2015,1,3,"Milledgeville, GA",Milledgeville, GA
+6/15/2015,0,4,"Brooklyn, NY",Brooklyn, NY
+6/16/2015,0,4,"Miami Gardens, FL",Miami Gardens, FL
+6/17/2015,9,0,"Charleston, SC",Charleston, SC
+6/19/2015,0,4,"Woonsocket, RI",Woonsocket, RI
+6/20/2015,1,11,"Detroit, MI",Detroit, MI
+6/20/2015,0,10,"Philadelphia, PA",Philadelphia, PA
+6/21/2015,0,5,"Lexington, KY",Lexington, KY
+6/21/2015,4,0,"Roy, UT",Roy, UT
+6/22/2015,0,7,"Philadelphia, PA",Philadelphia, PA
+6/23/2015,3,1,"Breaux Bridge, LA",Breaux Bridge, LA
+6/23/2015,1,3,"Chicago, IL",Chicago, IL
+6/24/2015,0,4,"Manhattan, NY",Manhattan, NY
+6/25/2015,0,4,"New Orleans, LA",New Orleans, LA
+6/26/2015,0,4,"Detroit, MI",Detroit, MI
+6/27/2015,4,0,"Greenacres, FL",Greenacres, FL
+6/27/2015,1,3,"Hartford, CT",Hartford, CT
+6/27/2015,1,3,"Taunton, MA",Taunton, MA
+6/28/2015,0,5,"Detroit, MI",Detroit, MI
+6/28/2015,0,6,"Harrington, DE",Harrington, DE
+6/28/2015,0,6,"Venice, IL",Venice, IL
+6/29/2015,0,4,"Opa-locka, FL",Opa-locka, FL
+7/1/2015,1,3,"Indianapolis, IN",Indianapolis, IN
+7/1/2015,1,4,"Newark, NJ",Newark, NJ
+7/3/2015,2,2,"Philadelphia, PA",Philadelphia, PA
+7/4/2015,1,4,"Pittsfield, MA",Pittsfield, MA
+7/4/2015,0,4,"San Antonio, TX",San Antonio, TX
+7/4/2015,0,4,"Syracuse, NY",Syracuse, NY
+7/4/2015,1,3,"Washington, D.C.",Washington, D.C.
+7/5/2015,1,3,"East Orange, NJ",East Orange, NJ
+7/5/2015,0,9,"Fort Wayne, IN",Fort Wayne, IN
+7/5/2015,4,0,"Rock Hill, SC",Rock Hill, SC
+7/5/2015,0,8,"Shreveport, LA",Shreveport, LA
+7/7/2015,3,1,"Baltimore, MD",Baltimore, MD
+7/12/2015,3,1,"Baton Rouge, LA",Baton Rouge, LA
+7/12/2015,0,4,"Jersey City, NJ",Jersey City, NJ
+7/12/2015,2,3,"River Forest, IL",River Forest, IL
+7/13/2015,1,4,"Stockton, CA",Stockton, CA
+7/14/2015,0,4,"St. Louis, MO",St. Louis, MO
+7/15/2015,0,5,"Atlanta, GA",Atlanta, GA
+7/15/2015,1,3,"Baltimore, MD",Baltimore, MD
+7/15/2015,0,7,"Cleveland, OH",Cleveland, OH
+7/15/2015,0,4,"Detroit, MI",Detroit, MI
+7/15/2015,4,1,"Holly Hill, SC",Holly Hill, SC
+7/16/2015,5,3,"Chattanooga, TN",Chattanooga, TN
+7/16/2015,0,4,"Dallas, TX",Dallas, TX
+7/17/2015,2,4,"Aroostook County, ME",Aroostook County, ME
+7/17/2015,0,5,"Chicago, IL",Chicago, IL
+7/17/2015,0,4,"Cincinnati, OH",Cincinnati, OH
+7/17/2015,1,5,"Columbus, OH",Columbus, OH
+7/17/2015,1,3,"Washington, DC",Washington, DC
+7/18/2015,2,2,"Baton Rouge, LA",Baton Rouge, LA
+7/18/2015,1,3,"Salem, OR",Salem, OR
+7/19/2015,0,6,"Louisville, KY",Louisville, KY
+7/19/2015,0,4,"Suffolk, VA",Suffolk, VA
+7/20/2015,0,5,"Bronx, NY",Bronx, NY
+7/21/2015,1,3,"Miami Gardens, FL",Miami Gardens, FL
+7/22/2015,4,1,"Forsyth County, GA",Forsyth County, GA
+7/23/2015,3,9,"Lafayette, LA",Lafayette, LA
+7/25/2015,2,4,"Erie, PA",Erie, PA
+7/25/2015,0,4,"Hopewell, VA",Hopewell, VA
+7/26/2015,0,5,"Indianapolis, IN",Indianapolis, IN
+7/26/2015,2,3,"Kansas City, MO",Kansas City, MO
+7/26/2015,0,4,"New Orleans, LA",New Orleans, LA
+7/27/2015,0,5,"Rockford, IL",Rockford, IL
+7/28/2015,2,2,"West Frankfort, IL",West Frankfort, IL
+7/30/2015,0,4,"Pittsburgh, PA",Pittsburgh, PA
+8/1/2015,0,4,"Orlando, FL",Orlando, FL
+8/2/2015,0,7,"Baltimore, MD",Baltimore, MD
+8/2/2015,0,9,"Brooklyn, NY",Brooklyn, NY
+8/2/2015,1,4,"Chicago, IL",Chicago, IL
+8/2/2015,0,5,"Savannah, GA",Savannah, GA
+8/3/2015,0,5,"Brooklyn, NY",Brooklyn, NY
+8/4/2015,1,4,"St. Louis, MO",St. Louis, MO
+8/6/2015,0,4,"Columbia, SC",Columbia, SC
+8/7/2015,4,0,"Barre, VT",Barre, VT
+8/8/2015,1,11,"Blytheville, AR",Blytheville, AR
+8/8/2015,2,3,"Gastonia, NC",Gastonia, NC
+8/8/2015,8,0,"Houston, TX",Houston, TX
+8/9/2015,1,3,"Detroit, MI",Detroit, MI
+8/9/2015,1,3,"Forest, MS",Forest, MS
+8/10/2015,0,4,"Long Beach, CA",Long Beach, CA
+8/15/2015,0,4,"Los Angeles, CA",Los Angeles, CA
+8/15/2015,1,3,"Orangeburg, SC",Orangeburg, SC
+8/15/2015,1,3,"Pittsburgh, PA",Pittsburgh, PA
+8/16/2015,0,5,"Bennettsville, SC",Bennettsville, SC
+8/16/2015,0,4,"Chicago, IL",Chicago, IL
+8/16/2015,0,6,"Fort Worth, TX",Fort Worth, TX
+8/16/2015,1,3,"Miami, FL",Miami, FL
+8/19/2015,3,4,"Rochester, NY",Rochester, NY
+8/20/2015,2,2,"Starr County, TX",Starr County, TX
+8/21/2015,2,5,"Cincinnati, OH",Cincinnati, OH
+8/21/2015,0,8,"Durham, NC",Durham, NC
+8/21/2015,0,4,"Pine Hills, FL",Pine Hills, FL
+8/21/2015,3,1,"Roswell, NM",Roswell, NM
+8/22/2015,1,7,"Modesto, CA",Modesto, CA
+8/25/2015,1,3,"New Orleans, LA",New Orleans, LA
+8/26/2015,0,4,"Brooklyn Center, MN",Brooklyn Center, MN
+8/26/2015,1,3,"Chicago, IL",Chicago, IL
+8/26/2015,3,1,"Moneta, VA",Moneta, VA
+8/26/2015,2,2,"West Palm Beach, FL",West Palm Beach, FL
+8/27/2015,2,2,"Salinas, CA",Salinas, CA
+8/28/2015,1,3,"Brooklyn, NY",Brooklyn, NY
+8/29/2015,3,2,"Bristol, TN",Bristol, TN
+8/29/2015,0,4,"Macon, GA",Macon, GA
+8/29/2015,1,3,"Smith County, TX",Smith County, TX
+8/30/2015,1,4,"Memphis, TN",Memphis, TN
+8/30/2015,0,4,"Muskegon Heights, MI",Muskegon Heights, MI
+9/1/2015,4,0,"Long Branch, NJ",Long Branch, NJ
+9/5/2015,1,3,"Charlotte, NC",Charlotte, NC
+9/5/2015,0,4,"Columbus, MO",Columbus, MO
+9/5/2015,0,4,"Daytona Beach, FL",Daytona Beach, FL
+9/5/2015,1,3,"Las Vegas, NV",Las Vegas, NV
+9/7/2015,0,4,"Denver, CO",Denver, CO
+9/7/2015,0,5,"Washington, DC",Washington, DC
+9/8/2015,0,4,"Chicago, IL",Chicago, IL
+9/8/2015,4,0,"Manson, WA",Manson, WA
+9/8/2015,5,0,"Minneapolis, MN",Minneapolis, MN
+9/11/2015,0,5,"Charlotte, NC",Charlotte, NC
+9/12/2015,1,3,"Minneapolis, MN",Minneapolis, MN
+9/12/2015,0,6,"Minneapolis, MN",Minneapolis, MN
+9/12/2015,2,4,"Rochester, NY",Rochester, NY
+9/12/2015,0,4,"Shreveport, LA",Shreveport, LA
+9/13/2015,4,0,"Baker, LA",Baker, LA
+9/13/2015,2,2,"Los Chavez, NM",Los Chavez, NM
+9/13/2015,1,5,"Ocala, FL",Ocala, FL
+9/15/2015,0,4,"Newark, NJ",Newark, NJ
+9/17/2015,0,4,"Albion, MI",Albion, MI
+9/17/2015,6,0,"Platte, SD",Platte, SD
+9/19/2015,1,3,"Indianapolis, IN",Indianapolis, IN
+9/20/2015,1,5,"Chicago, IL",Chicago, IL
+9/20/2015,0,6,"Tulsa, OK",Tulsa, OK
+9/21/2015,1,3,"Philadelphia, PA",Philadelphia, PA
+9/21/2015,2,2,"Sand City, CA",Sand City, CA
+9/23/2015,0,4,"Fort Meyers, FL",Fort Meyers, FL
+9/23/2015,1,3,"Norcross, GA",Norcross, GA
+9/23/2015,0,5,"Shreveport, LA",Shreveport, LA
+9/24/2015,0,5,"Chicago, IL",Chicago, IL
+9/25/2015,0,4,"Danville, IL",Danville, IL
+9/26/2015,2,2,"Banning, CA",Banning, CA
+9/27/2015,0,10,"Greenville, GA",Greenville, GA
+9/27/2015,0,4,"Kansas City, MO",Kansas City, MO
+9/28/2015,2,3,"Chicago, IL",Chicago, IL
+9/28/2015,0,5,"Cincinnati, OH",Cincinnati, OH
+9/28/2015,0,4,"Dayton, OH",Dayton, OH
+9/29/2015,3,2,"Chicago, IL",Chicago, IL
+10/1/2015,10,7,"Roseburg, OR",Roseburg, OR
+10/2/2015,1,4,"Baltimore, MD",Baltimore, MD
+10/2/2015,3,1,"Inglis, FL",Inglis, FL
+10/6/2015,0,5,"Baltimore, MD",Baltimore, MD
+10/9/2015,1,3,"Flagstaff, AZ",Flagstaff, AZ
+10/10/2015,0,4,"Charlotte, NC",Charlotte, NC
+10/10/2015,0,5,"Memphis, TN",Memphis, TN
+10/10/2015,1,3,"Peoria, IL",Peoria, IL
+10/12/2015,0,4,"DeKalb County, GA",DeKalb County, GA
+10/17/2015,0,4,"Elkhart, IN",Elkhart, IN
+10/17/2015,1,4,"Fort Meyers, FL",Fort Meyers, FL
+10/18/2015,0,4,"New Orleans, LA",New Orleans, LA
+10/19/2015,0,7,"Calumet City, IL",Calumet City, IL
+10/23/2015,1,3,"Nashville, TN",Nashville, TN
+10/24/2015,0,4,"Bamberg, SC",Bamberg, SC
+10/25/2015,0,5,"Four Oaks, NC",Four Oaks, NC
+10/25/2015,2,2,"Pageland, SC",Pageland, SC
+10/25/2015,1,4,"Pheonix, AZ",Pheonix, AZ
+10/25/2015,0,5,"Washington, DC",Washington, DC
+10/26/2015,0,5,"Evansville, IN",Evansville, IN
+10/27/2015,0,5,"Fort Worth, TX",Fort Worth, TX
+10/28/2015,1,3,"Houma, LA",Houma, LA
+10/31/2015,4,0,"Colorado Springs, CO",Colorado Springs, CO
+11/1/2015,4,0,"Pendleton, SC",Pendleton, SC
+11/3/2015,2,2,"Harris County, TX",Harris County, TX
+11/3/2015,1,3,"Jacksonville, FL",Jacksonville, FL
+11/4/2015,4,0,"Oakland, ME",Oakland, ME
+11/6/2015,0,4,"Bakersfield, CA",Bakersfield, CA
+11/6/2015,1,3,"Denver, CO",Denver, CO
+11/6/2015,0,4,"Tallahassee, FL",Tallahassee, FL
+11/7/2015,2,2,"Waycross, GA",Waycross, GA
+11/8/2015,1,3,"Des Moines, IA",Des Moines, IA
+11/8/2015,0,4,"Warren, MI",Warren, MI
+11/9/2015,2,2,"Indianapolis, IN",Indianapolis, IN
+11/13/2015,4,1,"Jacksonville, FL",Jacksonville, FL
+11/14/2015,0,5,"Johnstown, PA",Johnstown, PA
+11/14/2015,3,2,"Los Angeles, CA",Los Angeles, CA
+11/15/2015,6,0,"Anderson County, TX",Anderson County, TX
+11/15/2015,0,4,"Philadelphia, PA",Philadelphia, PA
+11/16/2015,3,1,"Round Mountain, AL",Round Mountain, AL
+11/16/2015,1,5,"Youngstown, OH",Youngstown, OH
+11/17/2015,4,0,"Murray, KY",Murray, KY
+11/18/2015,5,0,"Fresno, CA",Fresno, CA
+11/20/2015,1,3,"Pittsburgh, PA",Pittsburgh, PA
+11/21/2015,1,3,"Baltimore, MD",Baltimore, MD
+11/22/2015,0,4,"Brownsville, TX",Brownsville, TX
+11/22/2015,0,4,"Chicago, IL",Chicago, IL
+11/22/2015,0,17,"New Orleans, LA",New Orleans, LA
+11/22/2015,0,5,"Newburgh, NY",Newburgh, NY
+11/22/2015,0,5,"Seattle, WA",Seattle, WA
+11/23/2015,4,1,"Columbus, OH",Columbus, OH
+11/23/2015,1,3,"Houston, TX",Houston, TX
+11/23/2015,0,5,"Minneapolis, MN",Minneapolis, MN
+11/24/2015,0,4,"Conway, SC",Conway, SC
+11/26/2015,1,3,"Boston, MA",Boston, MA
+11/27/2015,3,9,"Colorado Springs, CO",Colorado Springs, CO
+11/27/2015,2,2,"Sacramento, CA",Sacramento, CA
+11/29/2015,0,5,"Kankakee, IL",Kankakee, IL
+12/2/2015,at least 14,at least 14,"San Bernardino, CA",San Bernardino, CA
+12/2/2015,1,3,"Savannah, GA",Savannah, GA
