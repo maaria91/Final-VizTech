@@ -285,7 +285,7 @@ d3.csv('data/Pop anddd guns - Sheet1.csv',
             .attr('y', function (d) {
                 return scaleY(d.pop);
             })
-            .style('fill', 'rgba(139,137,137,.7)')
+            .style('fill', 'rgba(255,127,80,.5)')
 
 
             .on("mouseover", function (d) {
