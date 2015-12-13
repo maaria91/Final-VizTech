@@ -1,52 +1,52 @@
-State Name,Guns,Closest Country
-Alabama,"4244406",Spain
-Alaska,"630685",Jordan
-Arizona,"5676111",South Africa
-Arkansas,"2589335",Greece
-California,"33081513",China
-Colorado,"4465926",Spain
-Connecticut,"3173798",Ukraine
-Delaware,"797365",Congo
-District of Columbia,"5126914",Spain
-Florida,"16695563",Mexico
-Georgia,"8602636",Turkey
-Hawaii,"1207947",Uzbekistan
-Idaho,"1392013",Norway
-Illinois,"11393601",Yemen
-Indiana,"5757616",South Africa
-Iowa,"2705163",Colombia
-Kansas,"2533569",Greece
-Kentucky,"3853358",Philippines
-Louisiana,"4025634",Argentina
-Maine,"1179585",Uzbekistan
-Maryland,"5126914",Spain
-Massachusetts,"5814295",South Africa
-Michigan,"8776672",Turkey
-Minnesota,"4709885",Spain
-Mississippi,"2634960",Colombia
-Missouri,"5318167",South Africa
-Montana,"878601",Libya
-Nebraska,"1621791",Czech Republic
-Nevada,"2398089",Finland
-New Hampshire,"1169025",Uzbekistan
-New Jersey,"7807202",Italy
-New Mexico,"1828551",Belgium
-New York,"17207705",Pakistan
-North Carolina,"8467509",Turkey
-North Dakota,"597261",Cambodia
-Ohio,"10244416",Thailand
-Oklahoma,"3331200",Switzerland
-Oregon,"3401449",England & Wales
-Pennsylvania,"11279713",Yemen
-Rhode Island,"934679",New Zealand
-South Carolina,"4107323",Argentina
-South Dakota,"722992",Taiwan
-Tennessee,"5635341",South Africa
-Texas,"22329258",Germany
-Utah,"2454330",Austria
-Vermont,"555658",Hungary
-Virginia,"7104909",Italy
-Washington,"5971392",South Africa
-West Virginia,"1645459",Guatemala
-Wisconsin,"5050044",Spain
-Wyoming,"500500",Honduras
+State Name,Guns,Closest Country,Perc
+Alabama,"4244406",Spain,"51.7"
+Alaska,"630685",Jordan,"57.8"
+Arizona,"5676111",South Africa,"31.1"
+Arkansas,"2589335",Greece,"55.3"
+California,"33081513",China,"21.3"
+Colorado,"4465926",Spain,"34.7"
+Connecticut,"3173798",Ukraine,"16.7"
+Delaware,"797365",Congo,"25.5"
+District of Columbia,"5126914",Spain,"3.60"
+Florida,"16695563",Mexico,"24.5"
+Georgia,"8602636",Turkey,"40.3"
+Hawaii,"1207947",Uzbekistan,"6.7"
+Idaho,"1392013",Norway,"55.3"
+Illinois,"11393601",Yemen,"20.2"
+Indiana,"5757616",South Africa,"39.1"
+Iowa,"2705163",Colombia,"42.9"
+Kansas,"2533569",Greece,"42.1"
+Kentucky,"3853358",Philippines,"47.7"
+Louisiana,"4025634",Argentina,"44.1"
+Maine,"1179585",Uzbekistan,"40.5"
+Maryland,"5126914",Spain,"21.3"
+Massachusetts,"5814295",South Africa,"12.6"
+Michigan,"8776672",Turkey,"38.4"
+Minnesota,"4709885",Spain,"41.7"
+Mississippi,"2634960",Colombia,"55.3"
+Missouri,"5318167",South Africa,"41.7"
+Montana,"878601",Libya,"57.7"
+Nebraska,"1621791",Czech Republic,"38.6"
+Nevada,"2398089",Finland,"33.8"
+New Hampshire,"1169025",Uzbekistan,"30"
+New Jersey,"7807202",Italy,"12.3"
+New Mexico,"1828551",Belgium,"34.8"
+New York,"17207705",Pakistan,"18"
+North Carolina,"8467509",Turkey,"41.3"
+North Dakota,"597261",Cambodia,"50.7"
+Ohio,"10244416",Thailand,"32.4"
+Oklahoma,"3331200",Switzerland,"42.9"
+Oregon,"3401449",England & Wales,"39.8"
+Pennsylvania,"11279713",Yemen,"34.7"
+Rhode Island,"934679",New Zealand,"12.8"
+South Carolina,"4107323",Argentina,"42.3"
+South Dakota,"722992",Taiwan,"56.6"
+Tennessee,"5635341",South Africa,"43.9"
+Texas,"22329258",Germany,"35.9"
+Utah,"2454330",Austria,"43.9"
+Vermont,"555658",Hungary,"42"
+Virginia,"7104909",Italy,"51.1"
+Washington,"5971392",South Africa,"33.1"
+West Virginia,"1645459",Guatemala,"55.4"
+Wisconsin,"5050044",Spain,"44.4"
+Wyoming,"500500",Honduras,"59.7"

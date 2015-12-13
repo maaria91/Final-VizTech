@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 182.7 23" style="enable-background:new 0 0 182.7 23;" xml:space="preserve">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-388 269 182.7 23" style="enable-background:new -388 269 182.7 23;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:url(#SVGID_1_);stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
 	.st1{fill:url(#SVGID_2_);stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
@@ -9,30 +9,29 @@
 	.st3{fill:#999999;}
 	.st4{font-family:'Helvetica';}
 	.st5{font-size:10px;}
-	.st6{font-size:8px;}
 </style>
-<g id="Layer_1">
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="31.3733" y1="11.3268" x2="147.6335" y2="11.3268">
-		<stop  offset="0" style="stop-color:#FFCCCC"/>
-		<stop  offset="1" style="stop-color:#ED1C24"/>
-		<stop  offset="1" style="stop-color:#000000"/>
-	</linearGradient>
-	<rect x="31.4" y="2" class="st0" width="116.3" height="18.7"/>
-	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="31.3733" y1="11.3268" x2="147.6335" y2="11.3268">
-		<stop  offset="0" style="stop-color:#FFCCCC"/>
-		<stop  offset="0.1655" style="stop-color:#FA9FA1"/>
-		<stop  offset="0.3615" style="stop-color:#F67075"/>
-		<stop  offset="0.5489" style="stop-color:#F24C52"/>
-		<stop  offset="0.7229" style="stop-color:#EF3139"/>
-		<stop  offset="0.8784" style="stop-color:#EE2229"/>
-		<stop  offset="1" style="stop-color:#ED1C24"/>
-		<stop  offset="1" style="stop-color:#000000"/>
-	</linearGradient>
-	<rect x="31.4" y="2" class="st1" width="116.3" height="18.7"/>
-	<rect id="XMLID_55_" x="7.2" y="12.1" class="st2" width="29.2" height="9.3"/>
-	<text id="XMLID_54_" transform="matrix(1 0 0 1 7.1898 19.338)"><tspan x="0" y="0" class="st3 st4 st5">500</tspan><tspan x="16.7" y="0" class="st3 st4 st6">K</tspan></text>
-	<rect id="XMLID_57_" x="149" y="11.3" class="st2" width="38.1" height="11"/>
-	<text id="XMLID_56_" transform="matrix(1 0 0 1 149.0044 18.5167)"><tspan x="0" y="0" class="st3 st4 st5">36</tspan><tspan x="11.1" y="0" class="st3 st4 st6">Mil</tspan></text>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-356.6" y1="281.65" x2="-240.3" y2="281.65" gradientTransform="matrix(1 0 0 -1 0 562)">
+	<stop  offset="0" style="stop-color:#FFCCCC"/>
+	<stop  offset="1" style="stop-color:#ED1C24"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<rect x="-356.6" y="271" class="st0" width="116.3" height="18.7"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-356.6" y1="281.65" x2="-240.3" y2="281.65" gradientTransform="matrix(1 0 0 -1 0 562)">
+	<stop  offset="0" style="stop-color:#FFCCCC"/>
+	<stop  offset="0.1655" style="stop-color:#FA9FA1"/>
+	<stop  offset="0.3615" style="stop-color:#F67075"/>
+	<stop  offset="0.5489" style="stop-color:#F24C52"/>
+	<stop  offset="0.7229" style="stop-color:#EF3139"/>
+	<stop  offset="0.8784" style="stop-color:#EF0C0C"/>
+	<stop  offset="1" style="stop-color:#ED1C24"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<rect x="-356.6" y="271" class="st1" width="116.3" height="18.7"/>
+<rect id="XMLID_55_" x="-380.8" y="281.1" class="st2" width="29.2" height="9.3"/>
+<text transform="matrix(1 0 0 1 -378.8102 288.338)" class="st3 st4 st5">10%</text>
+<rect id="XMLID_57_" x="-239" y="280.3" class="st2" width="38.1" height="11"/>
+<g>
+	<text transform="matrix(1 0 0 1 -237.9956 288.5167)" class="st3 st4 st5">60%</text>
 </g>
 <g id="Layer_2">
 </g>

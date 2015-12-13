@@ -46,12 +46,14 @@ var path = d3.geo.path()
 var rateById = d3.map();
 var state_guns = d3.map();
 var state_country = d3.map();
+var state_perc = d3.map();
+
 
 //create a formatting function
 var formatNumber = d3.format('05');
 
 //
-var colorScale = d3.scale.linear().domain([100000, 10000000]).range(['rgb(255,204,204)', 'red']);
+var colorScale = d3.scale.linear().domain([10, 60]).range(['white', 'rgb(238,0,0)']);
 
 //import geojson data
 queue()
@@ -74,7 +76,7 @@ function draw(state) {
         .style('fill', function (d) {
             console.log(d)
             var id = d.properties.NAME;
-            var guns = state_guns.get(id);
+            var guns = state_perc.get(id);
             return colorScale(+guns);
             //if( rateById.get(id) == undefined ){
             //    console.log(d.properties.STATE);
@@ -111,6 +113,7 @@ function attachTooltip(selection) {
                 .style('opacity', 1);
 
             tooltip.select('#state_name').html(d.properties.NAME);
+            tooltip.select('#perc').html(state_perc.get(d.properties.NAME));
             tooltip.select('#guns').html(state_guns.get(d.properties.NAME));
             tooltip.select('#country').html(state_country.get(d.properties.NAME));
 
@@ -149,11 +152,13 @@ function parseData(d) {
     //rateById.set(formatNumber(+d.id), +d.rate);
     state_guns.set(d["State Name"], +d.Guns);
     state_country.set(d["State Name"], d["Closest Country"]);
+    state_perc.set(d["State Name"], +d.Perc);
 
     return {
         state_name: d["State Name"],
         nguns: +d["Guns"],
-        ccountry: d["Closest Country"]
+        ccountry: d["Closest Country"],
+        gperc: +d["Perc"]
 
         //state_name: d.['State Name'],
         //nguns: +d.["Guns"],
@@ -285,7 +290,7 @@ d3.csv('data/Pop anddd guns - Sheet1.csv',
             .attr('y', function (d) {
                 return scaleY(d.pop);
             })
-            .style('fill', 'rgba(255,127,80,.5)')
+            .style('fill', 'rgba(205,201,201,.8)')
 
 
             .on("mouseover", function (d) {
